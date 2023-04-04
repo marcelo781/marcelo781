@@ -40,3 +40,11 @@
 ![marcelo781 GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo781&show_icons=true&theme=synthwave)
 
 ### Amo tecnologia, games, animes, séries e cultura geek em geral.🔥
+
+![Makima-pensativa](https://user-images.githubusercontent.com/39533676/229836729-b1d7711e-3e1f-4ab1-8487-fb518b09c6f1.gif)
+
+![Joker's Awakening](https://user-images.githubusercontent.com/39533676/229839159-4fd7a12b-94c4-408b-97a9-b586b07b79e9.gif)
+
+![Zoro's Ul Tora Gari](https://user-images.githubusercontent.com/39533676/229839824-57e188b4-cfe4-4787-ac4c-c684243ae18a.gif)
+
+
