@@ -33,11 +33,11 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
 
-[![marcelo781](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo781)](https://github.com/marcelo781/github-readme-stats)
+[![marcelo781](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelo781)](https://github.com/marcelo781/github-readme-stats)
 
 ### Algumas Infos do meu Github: 
 
-![marcelo781 GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo781&show_icons=true&theme=synthwave)
+![marcelo781 GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=marcelo781&show_icons=true&theme=synthwave)
 
 ### Amo tecnologia, games, animes, séries e cultura geek em geral.🔥
 
