@@ -1,5 +1,15 @@
 ### Olá! Eu sou o Marcelo!🔥
 
+**Contatos:**  
+
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
+
+Meu Discord: **mirai7810**   
+
+
+
+
+
 
 ### Essas são minhas redes sociais 🙊 
 
@@ -48,3 +58,6 @@
 ![Zoro's Ul Tora Gari](https://user-images.githubusercontent.com/39533676/229839824-57e188b4-cfe4-4787-ac4c-c684243ae18a.gif)
 
 
+![Rei Ayanami](https://giffiles.alphacoders.com/112/112778.gif)
+
+![Zaraki Kenpachi](https://64.media.tumblr.com/fe18ea0f9c427f4e3ac248825c2c353c/tumblr_oy41dinssH1rqe0rbo1_540.gifv)
